@@ -37,5 +37,5 @@ $ npm run test:cov
 
 ## License
 
-  Fiscal Calendar Addon is [MIT licensed](https://github.com/Kloudio/fiscal-calendar-addon/blob/master/LICENSE).
+  Fiscal Calendar Addon is [MIT licensed](https://github.com/Kloudio/fiscal-calendar-addon/blob/main/LICENSE).
 # fiscal-calendar-addon
